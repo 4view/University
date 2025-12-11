@@ -4,8 +4,8 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("=== ЛАБОРАТОРНАЯ РАБОТА №2 ===");
-        Console.WriteLine("=== Конструкторы и деструкторы ===\n");
+        Console.WriteLine("=== ЛАБОРАТОРНАЯ РАБОТА №3 ===");
+        Console.WriteLine("=== Наследование ===\n");
 
         Console.WriteLine("1. СОЗДАНИЕ ОБЪЕКТОВ ENCYCLOPEDIA:");
         Console.WriteLine("----------------------------------");

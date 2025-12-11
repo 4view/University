@@ -1,0 +1,15 @@
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\bin\Debug\net9.0\Lab7.exe
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\bin\Debug\net9.0\Lab7.deps.json
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\bin\Debug\net9.0\Lab7.runtimeconfig.json
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\bin\Debug\net9.0\Lab7.dll
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\bin\Debug\net9.0\Lab7.pdb
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\obj\Debug\net9.0\Lab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\obj\Debug\net9.0\Lab7.AssemblyInfoInputs.cache
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\obj\Debug\net9.0\Lab7.AssemblyInfo.cs
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\obj\Debug\net9.0\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\obj\Debug\net9.0\Lab7.sourcelink.json
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\obj\Debug\net9.0\Lab7.dll
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\obj\Debug\net9.0\refint\Lab7.dll
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\obj\Debug\net9.0\Lab7.pdb
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\obj\Debug\net9.0\Lab7.genruntimeconfig.cache
+C:\Users\user\Documents\University\3 course\OOP\labsC#\Lab7\obj\Debug\net9.0\ref\Lab7.dll
