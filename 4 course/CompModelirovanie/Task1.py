@@ -24,9 +24,13 @@ def draw_koch_segment(t, ln):
 t = turtle.Turtle()
 
 t.ht()
-t.speed(50)
+t.speed(100)
 
-draw_koch_segment(t, 30)
+draw_koch_segment(t, 50)
+t.left(120)
+draw_koch_segment(t, 50)
+t.left(120)
+draw_koch_segment(t, 50)
 
 turtle.done()
 
