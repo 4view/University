@@ -1,3 +1,5 @@
+package Lab3;
+
 import java.util.ArrayList;
 
 /**
@@ -74,7 +76,7 @@ class Employee {
 /**
  * Класс Работник на почасовой оплате
  * Наследуется от класса Employee
- * @author [Ваше Имя]
+ * @author Kochergin Anton
  * @version 1.0
  * @see Employee
  */
@@ -160,7 +162,7 @@ class HourlyEmployee extends Employee {
 /**
  * Класс Работник на окладе
  * Наследуется от класса Employee
- * @author [Ваше Имя]
+ * @author Kochergin Anton
  * @version 1.0
  * @see Employee
  */
@@ -217,7 +219,7 @@ class SalariedEmployee extends Employee {
 /**
  * Класс Предприятие
  * Содержит список работников и методы для работы с ними
- * @author [Ваше Имя]
+ * @author Kochergin Anton
  * @version 1.0
  * @since 1.0
  */
@@ -293,10 +295,10 @@ class Company {
 
 /**
  * Содержит метод main для запуска программы
- * @author [Ваше Имя]
+ * @author Kochergin Anton
  * @version 1.0
  */
-public class TestAll {
+public class Lab2 {
     /**
      * Главный метод программы
      * Создает предприятие, добавляет работников разных типов,

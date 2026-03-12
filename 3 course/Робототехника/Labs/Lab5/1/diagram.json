@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "author": "Student",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 67.8, "left": -87, "attrs": {} },
+    { "type": "wokwi-servo", "id": "servo1", "top": 94, "left": 220.8, "attrs": {} },
+    { "type": "wokwi-pushbutton", "id": "btn1", "top": -80.2, "left": -96, "attrs": {} }
+  ],
+  "connections": [
+    [ "uno:5V", "servo1:VCC", "red", [] ],
+    [ "uno:9", "servo1:SIG", "orange", [] ],
+    [ "uno:2", "btn1:1.r", "green", [] ],
+    [ "btn1:2.r", "uno:GND.2", "black", [] ],
+    [ "servo1:GND", "uno:GND.3", "black", [ "h0" ] ],
+    [ "servo1:V+", "uno:5V", "green", [ "h0" ] ],
+    [ "servo1:PWM", "uno:9", "green", [ "h0" ] ]
+  ],
+  "dependencies": {}
+}
